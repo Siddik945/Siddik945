@@ -1,6 +1,6 @@
 <div align="center">
 
-# MD. Abu Bakar Siddique
+# Md. Abu Bakar Siddique
 
 **Full-Stack Developer · Competitive Programmer · Problem Solver**
 
