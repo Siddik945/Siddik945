@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -24,7 +23,6 @@
 - 🚀 Currently building **Monsur Enterprise** — a full-stack business management system
 - 💡 Strong believer in clean code, teamwork, and continuous learning
 
----
 
 ## 🛠️ Tech Stack
 
@@ -57,16 +55,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
----
 
 ## 🏆 Competitive Programming
 
-| Platform          | Achievement               | Rating  |
-| ----------------- | ------------------------- | ------- |
-| 🟦 **Codeforces** | Pupil                     | 1244 |
-| 🟨 **LeetCode**   | 200+ Problems             | 1581 |
-| 🟫 **CodeChef**   | 3★                        | 1619 |
-| 📊 **Total**      | **2000+ Problems Solved** | —       |
+| Platform          | Achievement               | Rating |
+| ----------------- | ------------------------- | ------ |
+| 🟦 **Codeforces** | Pupil                     | 1244   |
+| 🟨 **LeetCode**   | 200+ Problems             | 1581   |
+| 🟫 **CodeChef**   | 3★                        | 1619   |
+| 📊 **Total**      | **2000+ Problems Solved** | —      |
 
 ### 🥇 Contest Highlights
 
@@ -76,7 +73,6 @@
 - 📌 **ICPC Preliminary** — 2021 & 2022
 - 💻 **150+ Online Contests** across various judges
 
----
 
 ## 💡 Soft Skills
 
